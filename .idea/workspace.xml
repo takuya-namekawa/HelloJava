@@ -4,22 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6aaf701a-6713-4aa0-91a0-2b40a3e83049" name="変更" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JSample1_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JSample1_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JSample7_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sample3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sample4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sample5.java" afterDir="false" />
+    <list default="true" id="6aaf701a-6713-4aa0-91a0-2b40a3e83049" name="変更" comment="練習">
+      <change afterPath="$PROJECT_DIR$/src/main/java/sampel8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +39,9 @@
     <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="2I5ZUb7GFtdkbUV16ZJeZt07It8" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -64,6 +62,14 @@
       <option name="presentableId" value="Default" />
       <updated>1669473426209</updated>
     </task>
+    <task id="LOCAL-00001" summary="練習">
+      <created>1669520170119</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669520170119</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -76,5 +82,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="練習" />
+    <option name="LAST_COMMIT_MESSAGE" value="練習" />
   </component>
 </project>
