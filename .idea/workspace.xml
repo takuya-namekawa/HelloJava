@@ -5,19 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6aaf701a-6713-4aa0-91a0-2b40a3e83049" name="変更" comment="練習">
-      <change afterPath="$PROJECT_DIR$/src/main/java/sample16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sample17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sample18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sample19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sample20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sample21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sample22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sample23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sample24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sample25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sample26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sample27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sample28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sampl40.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample36.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample37.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample38.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample41.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample43.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample44.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample45.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample47.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample48.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample49.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample50.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample51.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669528316995</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="練習">
+      <created>1669716338224</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669716338224</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
