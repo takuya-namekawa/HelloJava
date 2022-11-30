@@ -5,29 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6aaf701a-6713-4aa0-91a0-2b40a3e83049" name="変更" comment="練習">
-      <change afterPath="$PROJECT_DIR$/src/main/java/sampl40.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sample29.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sample30.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sample31.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sample32.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sample33.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sample34.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sample35.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sample36.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sample37.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sample38.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sample39.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sample41.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sample42.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sample43.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sample44.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sample45.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sample46.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sample47.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sample48.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sample49.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sample50.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sample51.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/samle53.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample52.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample54.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample55.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample56.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample57.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample58.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample59.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,13 +44,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="アプリケーションレベル" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="デフォルトタスク">
@@ -96,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669716338224</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="練習">
+      <created>1669730320100</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669730320100</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
